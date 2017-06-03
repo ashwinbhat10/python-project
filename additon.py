@@ -12,7 +12,7 @@ class test_addition(unittest.TestCase) :
 
 
 if __name__ == '__main__' :
-   print "testing"
+   print "testing22"
    unittest.main()
 
 
